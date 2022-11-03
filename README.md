@@ -1,7 +1,7 @@
 [![MasterHead](https://www.skyward.com/NewSkywardSite/media/Library/Images/Blog_Content/Educator/2017/Sept/Skynet.gif)]
 <h1 align="center">Hi 👋, I'm Prabir Mondal</h1>
 <h3 align="center">I am very much passionate to learn how to learn machine deeply.</h3>
-(img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif")
+<img align="right" alt="Coding" width="400" src="https://scitechdaily.com/images/Machine-Learning-AI-Concept.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prrabirmondal&label=Profile%20views&color=0e75b6&style=flat" alt="prrabirmondal" /> </p>
 
